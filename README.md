@@ -1,5 +1,8 @@
 # Spring guides
 
+> **MIGRATED**  
+> Please check the migrated repository: https://github.com/Microflash/spring-guides
+
 - [API Documentation with springdoc-openapi (WebMvc)](./springdoc-webmvc-integration)
 - [API Documentation with springdoc-openapi (WebMvc.fn)](./springdoc-webmvcfn-integration)
 - [Exception handling for a Spring-based REST API](./spring-rest-exception-handling)
